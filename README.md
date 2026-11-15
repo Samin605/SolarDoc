@@ -6,9 +6,8 @@ It is built with Python and Streamlit and uses forward chaining with certainty f
 
 ## Live application
 
-**Link:** https://your-app-name.streamlit.app
+**Link:** https://solardoc-csfywqhwbrb643rluvrmya.streamlit.app/
 
-Replace the link above with your deployed Streamlit address.
 
 ## Features
 
